@@ -1,4 +1,4 @@
-Ecommerce-Sales-Analysis-Dashboard-Project
+Ecommerce-Sales-Analysis-Dashboard-Project.
 <br>
 This project is an Ecommerce Sales Analysis Dashboard developed in Microsoft Excel to analyze and visualize sales performance. The dashboard provides an interactive view of key business metrics and helps identify sales trends, top-performing products, Product Category vs Total Price, and city vs Transaction Id.
 
