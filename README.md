@@ -21,6 +21,7 @@ Applied Excel formulas, data cleaning, sorting, and filtering for analysis.
 Designed a user-friendly dashboard for quick business insights.
 
 Tools and Skills Used.
+<br>
 Microsoft Excel | Pivot Tables | Pivot Charts | Slicers | Excel Formulas | Data Cleaning | Data Analysis | Dashboard Design.
 
 Data-Overview.
